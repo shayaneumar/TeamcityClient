@@ -1,0 +1,8 @@
+C:\Personal\RD\Teamcity\client\client\bin\Debug\client.exe.config
+C:\Personal\RD\Teamcity\client\client\bin\Debug\client.exe
+C:\Personal\RD\Teamcity\client\client\bin\Debug\client.pdb
+C:\Personal\RD\Teamcity\client\client\bin\Debug\DemoServer.dll
+C:\Personal\RD\Teamcity\client\client\bin\Debug\DemoServer.pdb
+C:\Personal\RD\Teamcity\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Personal\RD\Teamcity\client\client\obj\Debug\client.exe
+C:\Personal\RD\Teamcity\client\client\obj\Debug\client.pdb
